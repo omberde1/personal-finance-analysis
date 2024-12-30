@@ -15,13 +15,13 @@ The project is structured into three main dashboards built using Power BI:
 - **Personal_Finance.csv**: The dataset used in the analysis.
 - **Personal_Finance_Dashboard.pdf: A PDF file with all the dashboard images. 
 - **Images**: Contains background and logo images used in the Power BI dashboards.
-- **sql_queries**: Folder containing SQL scripts for database setup, data loading, and various analysis queries.
+- **SQL Queries**: Folder containing SQL scripts for database setup, data loading, and various analysis queries.
   
 ## Key Features
 
 ### Power BI Dashboards
 - **KPIs**: Key performance indicators related to loan applications, funded amounts, payments received, interest rates, and debt-to-income ratios.
-- **Visualizations**: Includes line charts, bar charts, maps, tree maps, and donut charts to represent loan data trends, distributions, and breakdowns.
+- **Visualizations**: Includes line charts, bar charts, maps, tree maps, and pie charts to represent loan data trends, distributions, and breakdowns.
 - **DAX Measures**: Created multiple DAX measures for financial calculations such as MTD, PMTD, and MoM metrics.
 
 ### SQL Scripts
@@ -37,7 +37,7 @@ The project is structured into three main dashboards built using Power BI:
     - Customize the visualizations and dashboard as per the design in the project.
 
 2. **SQL Setup**:
-    - Create a MySQL database and execute the SQL queries in the `sql_queries` folder.
+    - Create a MySQL database and execute the SQL queries in the `SQL queries` folder.
     - Ensure the dataset is loaded correctly into the database using the `2_loading_data.sql` script.
 
 ## Project Purpose
