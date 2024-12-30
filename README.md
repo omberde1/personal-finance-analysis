@@ -48,3 +48,14 @@ This project was created to analyze and visualize financial loan data, specifica
 - **Power BI**: For data visualization and dashboard creation.
 - **SQL**: For data manipulation and analysis.
 - **CSV**: For data storage and import.
+
+---
+
+## Contact  
+Feel free to reach out for collaboration or queries:  
+LinkedIn : https://www.linkedin.com/in/omberde/
+Email Id : omberde0@gmail.com
+
+---
+
+***** END *****
